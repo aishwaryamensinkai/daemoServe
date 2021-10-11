@@ -1,0 +1,7 @@
+order_id,order_status,city,pin_code,email_id,user_name
+16,Enroute,sfdcsd,789456,a@gmail.com,aaaa
+17,Shipped,sfdcsd,789456,a@gmail.com,aaaa
+15,Shipped,sfdcsd,789456,a@gmail.com,aaaa
+23,Arrived,hubli,580021,anusha123@gmail.com,anusha
+18,Arrived,hubli,580021,aishwarya@gmail.com,aishwarya
+19,Enroute,hubli,580021,aishwarya@gmail.com,aishwarya

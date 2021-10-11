@@ -1,0 +1,10 @@
+address_id,city,country,house_no,phone_no,pin_code,state,street,user_id
+2,hubli,India,98,7894561230,789456,Karnataka,visya,1
+1,sfdcsd,India,1111,0987302213,789456,csdc,cdzcvf,1
+6,sfdcsd,India,0,7987302213,789456,csdc,cdzcvf,2
+3,"Aaa
+",India,0,12,0,fdav,vdsadc,3
+4,sfdcsd,India,0,7987302213,789456,csdc,cdzcvf,3
+7,hubli,India,189,7894561230,580021,Karnataka,Vidya nagar,2
+9,sfdcsd,India,12,0917987302,789456,csdc,cdzcvf,2
+11,hubli,India,111,0998003614,580021,Karnataka,Vidya nagar,9
